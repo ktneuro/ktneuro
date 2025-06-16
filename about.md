@@ -3,6 +3,8 @@ layout: default
 title: About Me
 ---
 
+<div markdown="1">
+
 # About Me 
 I am a sophomore neuroscience student at UC Berkeley working towards a career in brain research. My interests include:
 
