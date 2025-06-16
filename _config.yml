@@ -5,8 +5,3 @@ theme: minima
 sass:
   style: compressed
 markdown: kramdown
-
-header_pages:
-  - index.md
-  - projects.md
-  - about.md
