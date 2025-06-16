@@ -19,7 +19,7 @@ Outside of school, I am passionate about animals, espeically bears and cats. My 
 
 # Long-Term Goals (for now)
 - Attend graduate school and get way more into independent research
-- Pursue a PhD in neuroscience, with focus on brain-machine interfaces & computational modeling
+- Pursue a PhD in neuroscience, with some sort of focus on brain-machine interfaces, computational modeling, etc.
 - Working towards finding my ultimate future long-term career in neuroscience
 
 I created this website to showcase my projects, trials with coding, research experience, and outreach work. Thank you for reading. 
