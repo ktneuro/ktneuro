@@ -21,6 +21,40 @@ nav {
   margin-bottom: 2rem;
 }
 nav a {
-  margin-right: 1rem
+  margin-right: 1rem;
   font-weight: bold;
+}
+/* Fancy Navbar Styles */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1a1a1a;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+}
+
+.nav-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.nav-right a {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: #dddddd;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.nav-right a:hover {
+  color: #ffffff;
+  border-bottom: 2px solid #ffffff;
+}
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
