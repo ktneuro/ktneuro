@@ -1,5 +1,4 @@
-layout: default
-title: Home
+
 
 # Hello, I'm Kyra!
 
@@ -10,4 +9,4 @@ Welcome to my neuroscience portfolio. I am currently a sophomore studying at UC 
 - [Resources](./resources.html)
 - [About Me](./about.html)
 
-*This site is always evolving! Like science.*
+*This site is always evolving!*
