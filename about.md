@@ -1,6 +1,9 @@
-<link rel="stylesheet" href="/assets/style.css">
+---
+layout: default
+title: About Me
+---
 
-## About Me 
+# About Me 
 I am a sophomore neuroscience student at UC Berkeley working towards a career in brain research. My interests include:
 - Computational neuroscience
 - Neural signal decoding
